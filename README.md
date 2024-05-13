@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_pierrebgs_" target="blank"><img src="https://img.shields.io/twitter/follow/_pierrebgs_?logo=twitter&style=for-the-badge" alt="_pierrebgs_" /></a> </p>
 
-- 🔭 I’m currently working on [TowerMonitor](https://gitlab.com/towermonitor/towermonitor-agent)
-
 - 🌱 I’m currently learning **Golang**
-
-- 📝 I regularly write articles on [@Stique](https://medium.com/@Stique)
 
 - 💬 Ask me about **automation, CI/CD, RUN**
 
